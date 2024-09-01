@@ -4,7 +4,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 
-namespace OTAUpdateHelper;
+namespace OTAUpdate;
 class Program
 {
     static async Task Main(string[] args)
